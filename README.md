@@ -7,6 +7,7 @@ List of seminars (newest on top):
 
 * Inference on Winners
   * [paper]() | [notes]() | [youtube](https://www.youtube.com/watch?v=Zs6FqGvRIuQ)
+  * [<img width='32px' src='https://github.com/Dorsa-Arezooji/OCIS/blob/main/Assets/youtube.png'>](https://www.youtube.com/watch?v=Zs6FqGvRIuQ)
 * Optimal Tradeoffs in Matched Designs
   * [paper]() 
   * [notes]()
