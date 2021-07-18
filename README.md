@@ -1,9 +1,18 @@
 # OCIS
-Notes on the Online Causal Inference Seminar (OCIS)
+This repo contains a list of topics discussed in the *Online Causal Inference Seminar (OCIS)* + my notes on them
+<br>
+These seminars are held online every Tuesday. Also, the video recordings are made available on the OCIS Youtube Channel.
 
-<img width='20px' src='https://github.com/Dorsa-Arezooji/OCIS/blob/main/Assets/www.png'>[OCIS Homepage](https://sites.google.com/view/ocis/home)
+[<img width='20px' src='https://github.com/Dorsa-Arezooji/OCIS/blob/main/Assets/www.png'>](https://sites.google.com/view/ocis/home ' OCIS Homepage ') [OCIS Homepage](https://sites.google.com/view/ocis/home)
+<br>
+[<img width='20px' src='https://github.com/Dorsa-Arezooji/OCIS/blob/main/Assets/youtube.png'>](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos ' OCIS Youtube Channel ') [OCIS Youtube Channel](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
 
-<img width='20px' src='https://github.com/Dorsa-Arezooji/OCIS/blob/main/Assets/youtube.png'>[OCIS Youtube Channel](https://www.youtube.com/channel/UCiiOj5GSES6uw21kfXnxj3A/videos)
+
+---
+This repository 
+
+---
+## Talks
 
 * Inference on Winners 
 [<img width='32px' src='https://github.com/Dorsa-Arezooji/OCIS/blob/main/Assets/paper.png'>](https://github.com/Dorsa-Arezooji/OCIS ' Paper ')
